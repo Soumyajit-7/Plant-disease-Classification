@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Plant-disease-Classification"
 AUTHOR_USER_NAME = "Soumyajit-7"
-SRC_REPO = "Plant disease CLassifier"
+SRC_REPO = "Plant_disease_CLassifier"
 AUTHOR_EMAIL = "soumyajit.biswas.14444@gmail.com"
 
 setuptools.setup(
